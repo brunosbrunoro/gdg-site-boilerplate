@@ -1,0 +1,11 @@
+{
+"siteUrl": "http://www.meugdg.com",
+"title": "GDG (chapter)",
+"logoUrl": "img/logo_default.png",
+"backgroundUrl": "img/background_default.png",
+"subtitle": "Bem-vindo ao Grupo de Desenvolvedores Google (chapter)",
+"short" : "Uma breve descrição sobre seu GDG",
+"postLimit": 5,
+"calendarUrl": "http://www.google.com/calendar/embed?src=joselitojunior.com_als8e2ddcfk95stohs6kga3ti0%40group.calendar.google.com&ctz=America/Recife",
+"groupName": "gdg-?"
+}
