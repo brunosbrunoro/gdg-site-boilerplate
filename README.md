@@ -34,6 +34,7 @@ Todos os atributos do arquivo são **obrigatórios**.
 
 ## Showcase
 - **GDG Recife**: http://www.gdgrecife.com
+- **GDG Curitiba**: http://www.gdgcuritiba.com.br
 
 *Seu GDG também está usando? Edite esse arquivo e dê um pull request para atualizarmos a lista! (:*
 
